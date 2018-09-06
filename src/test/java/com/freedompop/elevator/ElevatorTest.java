@@ -8,7 +8,7 @@ public class ElevatorTest {
     @Test
     public void testCall() {
         // GIVEN an elevator in a 6 floor building
-        // WHEN a user callss for a car from the third floor
+        // WHEN a user calls for a car from the third floor
         // THEN an elevator arrives
         // AND the elevator opens the door
     }
