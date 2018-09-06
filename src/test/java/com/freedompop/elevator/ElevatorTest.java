@@ -6,9 +6,9 @@ import org.junit.Test;
 public class ElevatorTest {
 
     @Test
-    public void testHall() {
+    public void testCall() {
         // GIVEN an elevator in a 6 floor building
-        // WHEN a user halls for a car from the third floor
+        // WHEN a user callss for a car from the third floor
         // THEN an elevator arrives
         // AND the elevator opens the door
     }
